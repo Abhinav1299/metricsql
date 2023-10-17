@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/VictoriaMetrics/metricsql"
+	"github.com/Abhinav1299/metricsql"
 )
 
 func ExampleExpandWithExprs() {
